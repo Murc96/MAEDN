@@ -88,7 +88,6 @@ class Play {
         overlappingFigure.removeFromField();
         overlappingFigure.placeOnField(); // Place it back to the start zone
         
-        // Alternatively, if you have a method to reset the figure's position to the start zone, use it here
     }
 }
 
